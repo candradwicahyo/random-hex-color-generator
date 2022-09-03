@@ -1,0 +1,8 @@
+.box {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  background: #f4f7fe;
+  border-radius: 4px;
+  overflow: hidden;
+}
